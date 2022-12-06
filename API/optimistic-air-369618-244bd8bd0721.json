@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "optimistic-air-369618",
+  "private_key_id": "244bd8bd07219dcca7b9b0aefcd0f2668dc21d37",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJ2Rw8I5bF+PxE\ncW9pcnd2XEe3xTAEB7YWDG/ciaSx1TlqNS1zG9jHAjRN8R3NnhPnelDl8SW017ci\nuBeSeLaXk/s0ZGBM1asTAkaLsncBXi+CDDVSVtv0ZGtPu/nx7rXcpP9q/P93KftP\ncmj0nvwmDJrlwcK+BYu9hqa48IezNTOQAPsIcu2jBPhRh6XBf8KkpJ3kheaeu72o\nYw7OYbVMUUJAXQS0OjpDEzQvhJya/jRVAueOrA8d2/CXoMQqTefVyRuvCJAqUP95\nqt3PCeW5J7fck6IL8J3TcBjiA08tBSlxUFIh16TlzXo99a170VQ5G2xKlRxbgVAD\nnQWhmVrfAgMBAAECggEABVP6Z/RAzonvywoucBcgbIvepDvtzfChGks5ncBYYXRE\njaZIxGCeqlTP9ueIHncEwPOrZ6vF9gegNh9nn1oZkvnKA/B+W5fKJeuSdQLA6H94\nCF5wIRXzEd9KUM5K/MpZtR/GqBcwWyHmoKzWyiMMvtuS/QU0qT30GeHlsni1UrEJ\nRg3tj+3YcIm75PP+YUI7xXb1EvVdc7RbCZKkW/5kIXa2wbBJlSkO7qsaW3YJ4Tq+\n2nxavdp8qmsQLxTKbgOXa4wxWgcMczGVVh9xPXxSXx66O0rFzSiXP/UECGDoCxpX\nXAO/kc7socsxLOcyNSn3m/mMWDUcSmvj0g9M5Mlq8QKBgQDtsqD/a3/ujOsRjrUf\nafzH2YV8ltKtjGup/1/VqbSn9W0+gMkhTIOjfp13ayHCCpwIv+krH5oODrIAnhKQ\nf+sUW49tUUZgN8BKhDIu+jX1VrGfIuMzA7Jps1vGWOpsMtCZbCCSniUZpZ6jZec2\nfDPCYoq9s8uYPXZl2eGIBO9f+QKBgQDZY9ToCA7P2kzmunkVirEgRJEQ5lfgbfZU\nOwy+XJxhdt44eCAL/p6rzTmiBu3522++JkzEKtEIMjdz7KAj/5nj6ZrfCiX5q84P\nmOgR6VL9Bqhyibt6p3GcjK3Ux+Fj0cnjM+7dcWSUrK4jb38ImXtNBmO6GUepYSuf\nXD7gYeN3lwKBgFUYS/bk30nhfQ4uDr2OTgal4tn1jLrAuJKFcCOnu5sdi9yCcn7P\nS5kubOUhn1Y+QhoHyku75oT90c/Sx0af5OLG3JQAMrejfd2vcd/Lh6GrRa945+mN\ne0PICCT8FABkOLWUNh0HLLT/y8knZBznXghLCuxa/5oi9s4DsG/nhGLRAoGAEzPT\nUa+sh0W0N0lPesymesAzxDdkmcl80dHpfUM2+RED7h8GTajvISPerGZKTSDKDRTb\nART7I+szpMTJHITudghjisIduqEncY9DKJngn8MfzAZIjjwOOBLhJAOH8EZOvAgR\nWHQ0u0FJnI2zvfG4x4QB+SVUhCy2Krx+PVnIOv8CgYEAw3sJ88OhCitkrJ4YSKdC\nJ2L6zE6Es5dFsDZ3IgOKh7zH090DY+gtlBMql5eaSRv6dvhjggjLHOFSVkJpnVSF\n3s6pg+42wVVKPqXdIhANmxD2iWW2WxIlrCqn3M+aizNil4f7MJih5fEi4gHL3b57\nKgVXAHpkD5h2w156L5h6n0g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gi-api-service-account@optimistic-air-369618.iam.gserviceaccount.com",
+  "client_id": "106217914957216271681",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gi-api-service-account%40optimistic-air-369618.iam.gserviceaccount.com"
+}
